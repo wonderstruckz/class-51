@@ -1,0 +1,19 @@
+h1{
+    color:cadetblue;
+}
+*{
+    border: black solid;
+}
+.header{
+    background-color: teal ;
+    display: flex;
+    justify-content:space-between;
+}
+.grid{
+    display: flex;
+    justify-content:space-evenly;
+flex-wrap: wrap;
+}
+body{
+    background-color: #808080;
+}
